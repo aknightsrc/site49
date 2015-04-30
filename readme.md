@@ -1,1 +1,1 @@
-my first site built using angular
+my first site using angular
